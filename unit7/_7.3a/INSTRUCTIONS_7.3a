@@ -1,0 +1,1 @@
+Modify the CountSpaces program so that contains a String that holds your favorite inspirational quote. Pass the quote to the calculateSpaces method and return the number of spaces to be displayed in the main method.
