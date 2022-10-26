@@ -14,4 +14,6 @@ CIS101	Fri 1 pm	    Lennon
 An example of the program is shown below:
 Enter a course:
 MKT100
-Course: MKT100 Time: Tues 8:30 am Instructor: Wong
+Course: MKT100 
+Time: Tues 8:30 am 
+Instructor: Wong
