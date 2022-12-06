@@ -1,0 +1,1 @@
+Write an application named SeekPosition that allows a user to enter a filename and an integer representing a character's position (index). Assume that the file is in the same folder as your executing program. Access the requested position within the file, and display the next 10 characters there.
