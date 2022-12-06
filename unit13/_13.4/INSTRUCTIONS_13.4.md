@@ -1,0 +1,1 @@
+Write an application that determines which, if any, of the following files are stored in the folder where you have saved the exercises created in this chapter: autoexec.bat, CompareFolders.java, FileStatistics.class, and Hello.doc. The program should display the number of files found. For example, if two of the files are found display the message 2 of the files exist.
